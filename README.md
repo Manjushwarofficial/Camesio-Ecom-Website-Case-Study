@@ -34,8 +34,8 @@ Camesio was an innovative camera e-commerce store built on Shopify, specializing
 
 ## Project Resources
 
-- **GitHub Repository**: Cannot be shared due to customer's privacy reasons/purposes
-- **Website Demo Video**: [\https://drive.google.com/file/d/1xCfqsDqT2cSOufv601ClDHRqMde7p_a5/view?usp=sharing]
+- **GitHub Repository**: *Cannot be shared due to customer's privacy reasons/purposes*
+- **Website Demo Video**: [Link](https://drive.google.com/file/d/1xCfqsDqT2cSOufv601ClDHRqMde7p_a5/view?usp=sharing)
 - **Live Website**: *Currently offline due to supplier restructuring and shopify charges*
 
 ## Social Media & SEO Links
@@ -77,9 +77,7 @@ Camesio was an innovative camera e-commerce store built on Shopify, specializing
 ## Contact
 
 For more information about this project or business inquiries:
-- **Email**: [Contact Email]
-- **LinkedIn**: [LinkedIn Profile]
-- **Portfolio**: [Portfolio Website]
+- **Email**: camesiohelpcenter@gmail.com
 
 ## Project Status
 
