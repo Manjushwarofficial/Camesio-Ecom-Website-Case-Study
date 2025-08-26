@@ -87,7 +87,6 @@ For more information about this project or business inquiries:
 **Reason**: Supplier restructuring and partnership challenges
 **Duration**: [Project Duration]
 
----
 
 *This repository serves as a case study and portfolio piece showcasing e-commerce development, digital marketing, and business management skills.*
 
@@ -95,6 +94,6 @@ For more information about this project or business inquiries:
 
 This project documentation is provided for educational and portfolio purposes.
 
----
+
 
 **Note**: This project was temporarily discontinued due to supplier-related issues but represents valuable experience in e-commerce operations, digital marketing, and business development.
